@@ -51,4 +51,6 @@ Helps me reflect on my progress and stay consistent.
 <h2>💬 Let’s Connect!</h2>
 Feel free to star, fork, or explore this repository.
 I'm sharing this to document my growth and maybe inspire or help others who are starting their own data science journey.
+<hr>
+<b>I'm happy to help! 💖</b>
 
